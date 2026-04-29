@@ -82,15 +82,14 @@ It computes **definite integrals** within a given range using efficient numerica
 
 ### 🔌 Circuit Diagram
 
-<img src="images/circuit.png" width="500"/>
+<img src="images/circuit.jpg" width="500"/>
+<img src="images/circuitDesign.jpg" width="500"/>
 
 ### 🖥️ Output Display
 
-<img src="images/output.png" width="500"/>
+<img src="images/output.jpg" width="500"/>
 
-### 📊 Integration Visualization
 
-<img src="images/integration.png" width="500"/>
 
 ---
 
