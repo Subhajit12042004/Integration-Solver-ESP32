@@ -136,7 +136,7 @@ Integration-Solver-ESP32/
 
 ## 👨‍🏫 Mentor
 
-Dr. D.C. Sarkar
+Dr. D.C. Sarkar, University of kalyani
 
 ---
 
